@@ -15,6 +15,6 @@ public class Vowel{
         scanner.close();
     }
     public static boolean isVowel(char ch){
-        return ch =='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u';
+        return ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u';
     }
 }
